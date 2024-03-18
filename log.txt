@@ -1,20 +1,15 @@
-https://random-status-code.herokuapp.com - online: false
-https://www.uol.com.br - online: true
-https://www.alura.com.br - online: true
-https://www.caelum.com.br - online: true
-https://www.google.com.br - online: true
-https://random-status-code.herokuapp.com - online: false
-https://www.uol.com.br - online: true
-https://www.alura.com.br - online: true
-https://www.caelum.com.br - online: true
-https://www.google.com.br - online: true
-https://random-status-code.herokuapp.com - online: false
-https://www.uol.com.br - online: true
-https://www.alura.com.br - online: true
-https://www.caelum.com.br - online: true
-https://www.google.com.br - online: true
-https://random-status-code.herokuapp.com - online: false
-https://www.uol.com.br - online: true
-https://www.alura.com.br - online: true
-https://www.caelum.com.br - online: true
-https://www.google.com.br - online: true
+18/03/2024 13:34:56 - https://random-status-code.herokuapp.com - online: false
+18/03/2024 13:34:56 - https://www.uol.com.br - online: true
+18/03/2024 13:34:56 - https://www.alura.com.br - online: true
+18/03/2024 13:34:58 - https://www.caelum.com.br - online: true
+18/03/2024 13:34:58 - https://www.google.com.br - online: true
+18/03/2024 13:35:04 - https://random-status-code.herokuapp.com - online: false
+18/03/2024 13:35:04 - https://www.uol.com.br - online: true
+18/03/2024 13:35:04 - https://www.alura.com.br - online: true
+18/03/2024 13:35:05 - https://www.caelum.com.br - online: true
+18/03/2024 13:35:05 - https://www.google.com.br - online: true
+18/03/2024 13:35:11 - https://random-status-code.herokuapp.com - online: false
+18/03/2024 13:35:11 - https://www.uol.com.br - online: true
+18/03/2024 13:35:11 - https://www.alura.com.br - online: true
+18/03/2024 13:35:12 - https://www.caelum.com.br - online: true
+18/03/2024 13:35:12 - https://www.google.com.br - online: true
